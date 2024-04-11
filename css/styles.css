@@ -1,0 +1,26 @@
+
+a {
+    background-color: black;
+    color: white;
+}
+
+a:hover {
+    color: rgb(185, 185, 185);
+    text-decoration: none;
+    }
+a:visited {
+    color: blue;
+    text-decoration: none;
+    }
+
+html {
+    background-color: grey;
+}
+
+p {
+    font-family: Arial, sans-serif ;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
