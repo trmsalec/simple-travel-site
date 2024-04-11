@@ -1,15 +1,10 @@
 
 a {
-    background-color: black;
     color: white;
 }
 
 a:hover {
     color: rgb(185, 185, 185);
-    text-decoration: none;
-    }
-a:visited {
-    color: blue;
     text-decoration: none;
     }
 
